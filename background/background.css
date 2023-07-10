@@ -1,0 +1,74 @@
+div{
+    height:300px;
+}
+.background-color{
+    background-color: blueviolet;
+}
+.background-img{
+    background-image: url(https://picsum.photos/458/354?image=1049);
+}
+.background-attachment{
+    background-image: url(https://picsum.photos/458/354?image=1049);
+    background-attachment: fixed;
+}
+.background-repeat{
+    background-image: url(https://picsum.photos/458/354?image=1049);
+    background-repeat: no-repeat; 
+}
+.background-position{
+    background-image: url(https://picsum.photos/458/354?image=1049);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: 100px;
+  
+}
+.background-size{
+    background-image: url(https://picsum.photos/458/354?image=1049);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover; 
+}    
+.background{
+    /* color: cadetblue; */
+    /* background-color: aqua; */
+    background :url(https://picsum.photos/458/354?image=1049), no-repeat ,coral ;
+}
+.background-flag{
+    background: linear-gradient(70deg ,pink,blueviolet,pink);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
