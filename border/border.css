@@ -1,0 +1,40 @@
+.box{
+    width: 30%;
+    border-top: solid pink 10px;
+    border-right: solid plum 10px;
+    border-bottom: solid palevioletred 10px;
+    border-left:  solid purple 10px;
+    border-radius: 100px;
+    border-radius: 50%;
+}
+div{
+    height: 500px;
+}
+.solid{
+    border: solid;
+    
+}
+.box-dashed{
+    border: dashed;
+}
+.box-dotted{
+    border: dotted;
+}
+.box-inset{
+    border: inset cyan 5px;
+}
+.box-outset{
+    border: outset hotpink 5px;
+}
+.box-groove{
+    border: groove rgb(43, 189, 226) 10px;
+}
+.box-ridge{
+    border: ridge chocolate 10px;
+}
+img{
+    border-radius: 50%;
+}
+input{
+    outline: solid peru 5px;
+}
